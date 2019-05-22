@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="electronic_city:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/electronic_city_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="electronic_city" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="electronic_city/web/Web" />
+    </root>
+  </artifact>
+</component>
